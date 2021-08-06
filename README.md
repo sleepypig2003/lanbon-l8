@@ -47,6 +47,7 @@ Variants:
             Rated load: 16A
 
 - Dimmer switch
+
             SKU: L8-HD
             Rated power: 100W
             Connections: N L L1
