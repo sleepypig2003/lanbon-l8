@@ -27,6 +27,7 @@ When in doubt, chat directly to a salesperson for the Lanbon store in Alibaba to
 
 Variants:
 - Smart switch / 5 model in one
+
             SKU: L8-HS
             Rated power: 200W
             Connections: N L L1 L2 L3
@@ -54,12 +55,14 @@ Variants:
             Features a 1-gang light dimmer which varies the voltage
             
 - Boiler switch
+
             SKU: L8-HB
             Rated load: 16A
             Load type: various brand water heater
             Features a 1-gang switch with a 16-A rating for high-load devices, such as water heaters
 
  - Air Conditioner switch / Thermostat switch
+
             SKU: L8-HT24
             Voltage: 24V  ( Yes, 24V! ) 
             Connections: C R G Y W  ( See: https://findanyanswer.com/how-does-a-24-volt-thermostat-work )
