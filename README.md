@@ -1,5 +1,5 @@
 # lanbon-l8
-Lanbon L8 smart switch backup
+## Lanbon L8 smart switch backup
 
 The Lanbon L8 series is a collection of smart home devices sold by Shenzhen Lanbon Hi-Tech Co. Ltd
 
@@ -28,33 +28,34 @@ Smart switch / 5 model in one
             Features 3-gang light switch relays
 
 Variants:
-            L8-HS (1/2/3GANG light switch)
+- Smart switch
+          - L8-HS (1/2/3GANG light switch)
             Rated Load: 200W/GANG(single switch)
             Load type: incandescent lamp, energy saving lamp, fluorescent
             
-            L8-HS (scene switch)
+          - L8-HS (scene switch)
             MAX scene: 3
             
-            L8-HS (curtain switch)
+          - L8-HS (curtain switch)
             Rated Load :200W
             Loat type: horizontal curtain motor/vertical
             
-            L8-HS (LCD 1gang switch)
+          - L8-HS (LCD 1gang switch)
             Rated load: 16A
 
-Dimmer switch
+- Dimmer switch
             SKU: L8-HD
             Rated power: 100W
             Connections: N L L1
             Features a 1-gang light dimmer which varies the voltage
             
-Boiler switch
+- Boiler switch
             SKU: L8-HB
             Rated load: 16A
             Load type: various brand water heater
             Features a 1-gang switch with a 16-A rating for high-load devices, such as water heaters
 
- Air Conditioner switch / Thermostat switch
+ - Air Conditioner switch / Thermostat switch
             SKU: L8-HT24
             Voltage: 24V  ( Yes, 24V! ) 
             Connections: C R G Y W  ( See: https://findanyanswer.com/how-does-a-24-volt-thermostat-work )
