@@ -12,23 +12,26 @@ Lanbon L8 - their newest series of products
 The L8 series LCD touch screen products include four different SKUs that I know of
 (it's hard to tell what is there or what they do, and the confusion is exacerbated since the packaging doesn't explain or differentiate the technical features, firmware differences, and some others still marketed on-line can already be end-of-life or basically different marketing names for the same devices)
 
-Firmware variations: without homekit, with homekit
+Firmware variations: 
+- without homekit
+- with homekit
+
 There may be firmware variations on whether you need it to be compatible with Apple homekit or without, but AFAIK the hardware is the same (I'm guessing a reflash to any of the firmware can change the functionality accordingly)
 
-Plate size variations: US, UK/EU
-Variants also include the plate size (the US plate size is different than the UK/EU plate sizes (86mm x 86mm))
+Plate size variations:
+- US
+- UK/EU (86mm x 86mm)
 
 When in doubt, chat directly to a salesperson for the Lanbon store in Alibaba to see if it is fit for your purpose
 
 
-Smart switch / 5 model in one
+Variants:
+- Smart switch / 5 model in one
             SKU: L8-HS
             Rated power: 200W
             Connections: N L L1 L2 L3
             Features 3-gang light switch relays
 
-Variants:
-- Smart switch
           - L8-HS (1/2/3GANG light switch)
             Rated Load: 200W/GANG(single switch)
             Load type: incandescent lamp, energy saving lamp, fluorescent
