@@ -78,3 +78,11 @@ My particular interest in it came upon discovering the Open HA switchplate proje
 I backed up the firmware of some of the Lanbon L8 am using by following BlakAdder's guide here:
 https://blakadder.com/lanbon-L8-custom-firmware/
 
+
+
+
+
+
+For the dimmer, I received a strange plate which seems to use different GPIO pins.
+GPIO 26 --- seems to affect the backlight level of the plate, not the red moodlight
+
