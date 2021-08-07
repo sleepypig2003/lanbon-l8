@@ -83,10 +83,7 @@ https://blakadder.com/lanbon-L8-custom-firmware/
 
 
 
-For the dimmer, I received a strange plate which seems to use different GPIO pins.
-
-  - GPIO 26 --- seems to affect the backlight level of the plate, not the red moodlight
-  - GPIO 27 --- seems to be the same as above
+For the dimmer plate, the behavior of the GPIO pins seem to have a different effect for my plate.  I can't find a mood light GPIO pin, instead most GPIO pins sometimes affect the backlight level instead, including GPIO pins that worked as the relay and mood light pins on the switch plate.  For instance, adding a slider to GPIO pins 12,13,26,27,32,33 all seem to result in the changing of the LCD backlight.  Additionally the LCD backlight does not turn off automatically, the LCD stays on indefinitely.
 
 
 
