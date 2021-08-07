@@ -85,5 +85,8 @@ https://blakadder.com/lanbon-L8-custom-firmware/
 
 For the dimmer, I received a strange plate which seems to use different GPIO pins.
 
-GPIO 26 --- seems to affect the backlight level of the plate, not the red moodlight
+  - GPIO 26 --- seems to affect the backlight level of the plate, not the red moodlight
+  - GPIO 27 --- seems to be the same as above
+
+
 
