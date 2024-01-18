@@ -73,7 +73,7 @@ https://www.lanbon.cn/
 
 https://lanbon.en.alibaba.com/?spm=a2756.trade-list-buyer.0.0.27b076e9IVMelt&tracelog=from_orderlist_company
 
-My particular interest in it came upon discovering the Open HA switchplate project by Fvanroie, which provides a great way to customize the hardware and integrate it into HomeAssistant.
+My particular interest in it came upon discovering the Open [HA switchplate project by Fvanroie](https://github.com/HASwitchPlate/openHASP), which provides a great way to customize the hardware and integrate it into HomeAssistant.
 
 I backed up the firmware of some of the Lanbon L8 am using by following BlakAdder's guide here:
 https://blakadder.com/lanbon-L8-custom-firmware/
